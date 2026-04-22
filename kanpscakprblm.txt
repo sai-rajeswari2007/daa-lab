@@ -1,0 +1,13 @@
+Enter the no of items5
+Enter the weight of each items2
+2
+2
+22
+2
+Enter the price of each packets in a packed items222
+22
+2
+2
+2
+Enter the capacity of bin55
+250.000000
